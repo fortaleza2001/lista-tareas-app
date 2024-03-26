@@ -29,6 +29,6 @@ body {
   margin-top: 50px !important;
 }
 
-.header-task {
-  margin-top: 0 !important;
+.content-wrapper {
+  text-align: center; /* Centra horizontalmente el contenido dentro del wrapper */
 }
